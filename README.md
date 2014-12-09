@@ -1,3 +1,3 @@
 euler
 =====
-Problem 1 from Project Euler
+Solved problems from Project Euler
